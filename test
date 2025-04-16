@@ -1,0 +1,6 @@
+drive,filesystem,usage
+/dev/disk106,ext4,85
+/dev/sdb,ntfs,11
+/dev/sdc,ext4,22
+/dev/disk1,ext4,87
+/dev/sdz,ntfs,15
